@@ -23,7 +23,6 @@ int main()
 
     try
     {
-
         num2 = stoi(S);
         cout << num2;
     }
