@@ -1,14 +1,14 @@
-// Task
+/* Task
+Given a positive integer denoting n, do the following:
 
-// Given a positive integer denoting n, do the following:
-// If 1 <= n <= 9, print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).
-// If n > 9, print Greater than 9.
+- If 1 <= n <= 9, print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).
+- If n > 9, print Greater than 9.
 
-// Input Format
-// The first line contains a single integer, n.
+Input Format
+The first line contains a single integer, n.
 
-// Output Format
-// If 1 <= n <= 9, then print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.); otherwise, print Greater than 9 instead.
+Output Format
+If 1 <= n <= 9, then print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.); otherwise, print Greater than 9 instead.   */
 
 #include <stdio.h>
 #include <stdlib.h>
