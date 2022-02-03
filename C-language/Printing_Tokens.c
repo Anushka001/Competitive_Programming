@@ -1,11 +1,11 @@
-// Task
-// Given a sentence, s, print each word of the sentence in a new line.
+/* Task
+Given a sentence, s, print each word of the sentence in a new line.
 
-// Input Format
-// The first and only line contains a sentence, s.
+Input Format
+The first and only line contains a sentence, s.
 
-// Output Format
-// Print each word of the sentence in a new line.
+Output Format
+Print each word of the sentence in a new line.   */
 
 #include <stdio.h>
 #include <string.h>
