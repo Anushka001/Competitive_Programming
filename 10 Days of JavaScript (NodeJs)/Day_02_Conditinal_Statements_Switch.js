@@ -1,17 +1,17 @@
-// Task
+/* Task
 
-// Complete the getLetter(s) function in the editor.It has one parameter: a string, , consisting of lowercase English alphabetic letters(i.e., a through z).It must return A, B, C, or D depending on the following criteria:
+Complete the getLetter(s) function in the editor.It has one parameter: a string, , consisting of lowercase English alphabetic letters(i.e., a through z).It must return A, B, C, or D depending on the following criteria:
 
-// If the first character in string  is in the set, then return A.
-// If the first character in string  is in the set, then return B.
-// If the first character in string  is in the set, then return C.
-// If the first character in string  is in the set, then return D.
+If the first character in string  is in the set, then return A.
+If the first character in string  is in the set, then return B.
+If the first character in string  is in the set, then return C.
+If the first character in string  is in the set, then return D.
 
-// Sample Input 0
-// adfgt
+Sample Input 0
+adfgt
 
-// Sample Output 0
-// A
+Sample Output 0
+A    */
 
 'use strict';
 
