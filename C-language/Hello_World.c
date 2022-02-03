@@ -1,6 +1,5 @@
-// Task
-
-// This challenge requires you to print "Hello World!" on a single line, and then print the already provided input string to stdout.
+/* Task
+This challenge requires you to print "Hello World!" on a single line, and then print the already provided input string to stdout.	*/
 
 #include <stdio.h>
 #include <string.h>
