@@ -1,23 +1,22 @@
-// Task
+/* Task
+Complete the reverseString function; it has one parameter, s. You must perform the following actions:
 
-// Complete the reverseString function; it has one parameter, s. You must perform the following actions:
+Try to reverse string s using the split, reverse, and join methods.
+If an exception is thrown, catch it and print the contents of the exception's message on a new line.
+Print  on a new line. If no exception was thrown, then this should be the reversed string; if an exception was thrown, this should be the original string.
 
-// Try to reverse string s using the split, reverse, and join methods.
-// If an exception is thrown, catch it and print the contents of the exception's message on a new line.
-// Print  on a new line. If no exception was thrown, then this should be the reversed string; if an exception was thrown, this should be the original string.
+Sample Input 0
+"1234"
 
-// Sample Input 0
-// "1234"
+Sample Output 0
+4321
 
-// Sample Output 0
-// 4321
+Sample Input 1
+Number(1234)
 
-// Sample Input 1
-// Number(1234)
-
-// Sample Output 1
-// s.split is not a function
-// 1234
+Sample Output 1
+s.split is not a function
+1234     */
 
 'use strict';
 
