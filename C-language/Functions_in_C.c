@@ -1,12 +1,11 @@
-// Task
+/* Task
+Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
 
-// Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+Input Format
+Input will contain four integers - a,b,c,d, one on each line.
 
-// Input Format
-// Input will contain four integers - a,b,c,d, one on each line.
-
-// Output Format
-// Print the greatest of the four integers.
+Output Format
+Print the greatest of the four integers. */
 
 #include <stdio.h>
 /*
