@@ -1,12 +1,11 @@
-// Task
+/* Task
+Given a five digit integer, print the sum of its digits.
 
-// Given a five digit integer, print the sum of its digits.
+Input Format
+The input contains a single five digit number, n.
 
-// Input Format
-// The input contains a single five digit number, n.
-
-// Output Format
-// Print the sum of the digits of the five digit number.
+Output Format
+Print the sum of the digits of the five digit number.	*/
 
 #include <stdio.h>
 #include <string.h>
