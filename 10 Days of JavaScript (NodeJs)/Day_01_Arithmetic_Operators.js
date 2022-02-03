@@ -1,17 +1,17 @@
-// Task
+/* Task
 
-// Complete the following functions in the editor below:
+Complete the following functions in the editor below:
 
-// 1. getArea(length, width): Calculate and return the area of a rectangle having sides length and width.
-// 2. getPerimeter(length, width): Calculate and return the perimeter of a rectangle having sides length and width.
+1. getArea(length, width): Calculate and return the area of a rectangle having sides length and width.
+2. getPerimeter(length, width): Calculate and return the perimeter of a rectangle having sides length and width.
 
-// Sample Input 0
-// 3
-// 4.5
+Sample Input 0
+3
+4.5
 
-// Sample Output 0
-// 13.5
-// 15
+Sample Output 0
+13.5
+15   */
 
 'use strict';
 
