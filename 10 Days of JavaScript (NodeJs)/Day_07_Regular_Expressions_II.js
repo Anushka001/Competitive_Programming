@@ -1,21 +1,21 @@
-// Task
+/* Task
 
-// Complete the function in the editor below by returning a RegExp object, re, that matches any string s satisfying both of the following conditions:
+Complete the function in the editor below by returning a RegExp object, re, that matches any string s satisfying both of the following conditions:
 
-// - String s starts with the prefix Mr., Mrs., Ms., Dr., or Er.
-// - The remainder of string s (i.e., the rest of the string after the prefix) consists of one or more upper and/or lowercase English alphabetic letters (i.e., [a-z] and [A-Z]).
+- String s starts with the prefix Mr., Mrs., Ms., Dr., or Er.
+- The remainder of string s (i.e., the rest of the string after the prefix) consists of one or more upper and/or lowercase English alphabetic letters (i.e., [a-z] and [A-Z]).
 
-// Output Format
-// The function must return a RegExp object that matches any string s satisfying both of the given conditions.
+Output Format
+The function must return a RegExp object that matches any string s satisfying both of the given conditions.
 
-// Sample Input 0
-// Mr.X
+Sample Input 0
+Mr.X
 
-// Sample Output 0
-// true
+Sample Output 0
+true
 
-// Explanation 0
-// This string starts with Mr., followed by an English alphabetic letter (X).
+Explanation 0
+This string starts with Mr., followed by an English alphabetic letter (X).  */
 
 'use strict';
 
