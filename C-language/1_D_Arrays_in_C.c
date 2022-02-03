@@ -1,12 +1,12 @@
-// Task
-// To print the sum of all elements in the array
+/* Task
+To print the sum of all elements in the array
 
-// Input Format
-// The first line contains an integer, n.
-// The next line contains n space-separated integers.
+Input Format
+The first line contains an integer, n.
+The next line contains n space-separated integers.
 
-// Output Format
-// Print the sum of the integers in the array.
+Output Format
+Print the sum of the integers in the array.  */
 
 #include <stdio.h>
 #include <string.h>
