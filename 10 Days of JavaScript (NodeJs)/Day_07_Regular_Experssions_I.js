@@ -1,18 +1,18 @@
-// Task
+/* Task
 
-// Complete the function in the editor below by returning a RegExp object, re, that matches any string s that begins and ends with the same vowel. Recall that the English vowels are a, e, i, o, and u.
+Complete the function in the editor below by returning a RegExp object, re, that matches any string s that begins and ends with the same vowel. Recall that the English vowels are a, e, i, o, and u.
 
-// Output Format
-// The function must return a RegExp object that matches any string  beginning with and ending in the same vowel.
+Output Format
+The function must return a RegExp object that matches any string  beginning with and ending in the same vowel.
 
-// Sample Input 0
-// bcd
+Sample Input 0
+bcd
 
-// Sample Output 0
-// false
+Sample Output 0
+false
 
-// Explanation 0
-// This string starts with (and ends in) a consonant, so it cannot start and end with the same vowel.
+Explanation 0
+This string starts with (and ends in) a consonant, so it cannot start and end with the same vowel.  */
 
 'use strict';
 
