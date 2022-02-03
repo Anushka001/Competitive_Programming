@@ -1,21 +1,20 @@
-// Task
+/*Task
+The code in the editor has a tagged template literal that passes the area and perimeter of a rectangle to a tag function named sides. Recall that the first argument of a tag function is an array of string literals from the template, and the subsequent values are the template's respective expression values.
 
-// The code in the editor has a tagged template literal that passes the area and perimeter of a rectangle to a tag function named sides. Recall that the first argument of a tag function is an array of string literals from the template, and the subsequent values are the template's respective expression values.
+Input Format
+The first line contains an integer denoting s1.
+The second line contains an integer denoting s2.
 
-// Input Format
-// The first line contains an integer denoting s1.
-// The second line contains an integer denoting s2.
+Output Format
+Return an array consisting of s1 and s2, sorted in ascending order.
 
-// Output Format
-// Return an array consisting of s1 and s2, sorted in ascending order.
+Sample Input 0
+10
+14
 
-// Sample Input 0
-// 10
-// 14
-
-// Sample Output 0
-// 10
-// 14
+Sample Output 0
+10
+14   */
 
 'use strict';
 
